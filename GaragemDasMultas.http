@@ -1,0 +1,6 @@
+@GaragemDasMultas_HostAddress = http://localhost:5062
+
+GET {{GaragemDasMultas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
